@@ -22,3 +22,7 @@ ran= random.randint(1,1157920892373161954235709850086879078528375642790749043826
 ![image](https://user-images.githubusercontent.com/88630056/128642533-98c70c6c-bbf3-4576-ba47-7f9e983db35e.png)
 
 If a Balance more than 0 is found winner.txt will be written and saved to current loction of r2.py with all the information to restore wallet.
+
+Made to run in python.
+pip3 install bit
+pip3 install colorama
